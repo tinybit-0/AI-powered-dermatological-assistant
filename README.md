@@ -7,6 +7,7 @@ Key Features:
       Minimal Setup: All necessary files, including the dataset, are included.
       
 How to Use:
+
     1) Clone the repository:
         Open the terminal in VS Code (Ctrl + ~) and run:
            git clone https://github.com/tinybit-0/AI-powered-dermatological-assistant.git
